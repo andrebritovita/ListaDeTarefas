@@ -1,4 +1,29 @@
 <resources>
     <string name="app_name">TaskBeats</string>
     <string name="home_title">Task Beat</string>
+    <string name="create_task_title">Create task</string>
+    <string name="create_category">Create category</string>
+    <string name="create_task">Create task</string>
+    <string name="update_task_title">Update task</string>
+    <string name="update">Update</string>
+    <string name="category_delete_title">Important</string>
+    <string name="category_delete_description">By deleting a category you will delete all tasks with this category, are you sure?</string>
+    <string name="description_delete_all">All Category and Tasks will be deleted from database, are you sure?</string>
+    <string name="delete">Delete</string>
+    <string name="invalid_category_title">Invalid Category</string>
+    <string name="invalid_category_warning">Please select a valid category</string>
+    <string name="back">Back</string>
+    <string name="empty_category_title">No category found!</string>
+    <string name="empty_task_title">No tasks found!</string>
+    <string name="add_task_to_category">Add task</string>
+    <string name="empty_category_description">Please create a new one!</string>
+    <string name="empty_task_description">You can start by creating your first task!</string>
+    <string name="category_empty_task_description">Start adding tasks to this category!</string>
+    <string name="category_no_tasks_description">This category has no tasks. Do you want to delete it?</string>
+    <string name="category_with_tasks_description">⚠ This category has %1$d task(s). All will be deleted. Do you want to continue?</string>
+    <string name="invalid_category_name">Please enter a category name</string>
+    <string name="invalid_category">Invalid category</string>
+    <string name="snackbar_invalid_category">Please select or create a category</string>
+
+
 </resources>
