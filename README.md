@@ -1,4 +1,4 @@
-📝 TaskBeats - Lista de Tarefas por Categorias
+# 📝 TaskBeats - Lista de Tarefas por Categorias
 
 Este é um aplicativo Android Nativo desenvolvido em Kotlin que permite ao usuário organizar suas tarefas de maneira eficiente, categorizando-as e visualizando tudo de forma clara.
 A interface é simples, intuitiva e adaptada para criar, editar e excluir tarefas e categorias com apenas alguns toques.
