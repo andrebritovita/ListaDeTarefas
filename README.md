@@ -43,7 +43,7 @@ O app utiliza banco de dados local com Room para armazenar todas as informaçõe
 - Uso do lifecycleScope com Dispatchers.IO e Dispatchers.Main para chamadas ao banco de dados;
 - Interface adaptada para estados vazios (sem categorias ou sem tarefas);
 - Atualização automática da UI ao inserir/editar/deletar dados;
-- Uso de DiffUtil no ListAdapter para melhorar performance das listas;
+- Uso de DiffUtil no ListAdapter para melhorar performance das listas
 
 ## License
 ```
