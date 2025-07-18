@@ -6,7 +6,8 @@ O app utiliza banco de dados local com Room para armazenar todas as informaçõe
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/user-attachments/assets/23cac793-9c35-4742-aaed-722815fd06d9" width=200/> <img src="https://github.com/user-attachments/assets/6bc01234-7dcc-4b4b-9e65-e17fa30b8b3b" width=200/> <img src="https://github.com/user-attachments/assets/63d27f93-67ce-4388-934e-9c26dd6b0c45" width=200/> <img src="https://github.com/user-attachments/assets/a8b426bd-b7ab-4406-8a6d-5195c42fbc5d" width=200/> <img src="https://github.com/user-attachments/assets/1c9f38f6-0b91-4337-a4a6-4d87ab617dab" width=200/> <img src="https://github.com/user-attachments/assets/1b59408b-89a0-4d43-9d24-14531482e628" width=200/>
+<img src="https://github.com/user-attachments/assets/23cac793-9c35-4742-aaed-722815fd06d9" width=200/> <img src="https://github.com/user-attachments/assets/e944da04-ade4-424f-8306-6861f644d611" width=200/> <img src="https://github.com/user-attachments/assets/687bb83d-30b0-4dce-95ee-7a93835ee179" width=200/> <img src="https://github.com/user-attachments/assets/08a1b2b4-240c-4d96-986c-86f13d6d71a8" width=200/> <img src="https://github.com/user-attachments/assets/9b2f8994-c2dd-44ee-8739-5ce1aa646292" width=200/> <img src="https://github.com/user-attachments/assets/0adfd957-350d-4f4b-9620-e0a5dca43c84" width=200/> <img src="https://github.com/user-attachments/assets/342eb87e-600c-4000-9752-bdd33ee76d61" width=200/> <img src="https://github.com/user-attachments/assets/5fe0477e-f6b3-49d8-a933-ed1568f66a6b" width=200/> <img src="https://github.com/user-attachments/assets/cc867018-ddb3-4902-9902-6772751e1dd4" width=200/>
+
 
 # 🧰 Tecnologias Utilizadas
 ## 📦 Componentes e Recursos Android
